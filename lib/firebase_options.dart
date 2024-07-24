@@ -44,41 +44,41 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC-6aA7rQXDfWVEEFFFcREQiqPsJHXkpdE',
-    appId: '1:992935456108:web:007d2049e9f0206c571749',
-    messagingSenderId: '992935456108',
+    apiKey: '',
+    appId: '1:',
+    messagingSenderId: '',
     projectId: 'loadiot-3f724',
-    authDomain: 'loadiot-3f724.firebaseapp.com',
-    databaseURL: 'https://loadiot-3f724-default-rtdb.firebaseio.com',
+    authDomain: '',
+    databaseURL: '',
     storageBucket: 'loadiot-3f724.appspot.com',
     measurementId: 'G-S7X8DGD2WW',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDQVjpdyWhthOPiVp7iSkxgPS6oQln4cDI',
+    apiKey: '',
     appId: '1:992935456108:android:2a9f3cc1ef7ab5c7571749',
-    messagingSenderId: '992935456108',
+    messagingSenderId: '',
     projectId: 'loadiot-3f724',
-    databaseURL: 'https://loadiot-3f724-default-rtdb.firebaseio.com',
+    databaseURL: '',
     storageBucket: 'loadiot-3f724.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDrM6CTZaAt2e-USvRX2AzdnvVCiMw86hk',
+    apiKey: '',
     appId: '1:992935456108:ios:779decbd2578688b571749',
-    messagingSenderId: '992935456108',
+    messagingSenderId: '',
     projectId: 'loadiot-3f724',
-    databaseURL: 'https://loadiot-3f724-default-rtdb.firebaseio.com',
+    databaseURL: '',
     storageBucket: 'loadiot-3f724.appspot.com',
     iosBundleId: 'com.example.load',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDrM6CTZaAt2e-USvRX2AzdnvVCiMw86hk',
-    appId: '1:992935456108:ios:d85fe884b21b1b71571749',
-    messagingSenderId: '992935456108',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'loadiot-3f724',
-    databaseURL: 'https://loadiot-3f724-default-rtdb.firebaseio.com',
+    databaseURL: '',
     storageBucket: 'loadiot-3f724.appspot.com',
     iosBundleId: 'com.example.load.RunnerTests',
   );
