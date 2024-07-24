@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "992935456108",
+    "firebase_url": "https://loadiot-3f724-default-rtdb.firebaseio.com",
+    "project_id": "loadiot-3f724",
+    "storage_bucket": "loadiot-3f724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992935456108:android:e293785d14b7f542571749",
+        "android_client_info": {
+          "package_name": "com.example.iotload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQVjpdyWhthOPiVp7iSkxgPS6oQln4cDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992935456108:android:2a9f3cc1ef7ab5c7571749",
+        "android_client_info": {
+          "package_name": "com.example.load"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQVjpdyWhthOPiVp7iSkxgPS6oQln4cDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

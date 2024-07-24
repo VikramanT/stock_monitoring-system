@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.appcheck.firebase_app_check-jetified-annotation-experimental-1.1.0-0 C:\Users\vikra\.gradle\caches\transforms-3\257e0bb88528f5fc66bfd853728809aa\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.appcheck.firebase_app_check-jetified-play-services-basement-18.3.0-1 C:\Users\vikra\.gradle\caches\transforms-3\4105637ca2d0ffd34d30b1a01003cfea\transformed\jetified-play-services-basement-18.3.0\res
+io.flutter.plugins.firebase.appcheck.firebase_app_check-jetified-window-1.0.0-beta04-2 C:\Users\vikra\.gradle\caches\transforms-3\6582e67aea0be70979c64a0bfb01e347\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.appcheck.firebase_app_check-core-1.6.0-3 C:\Users\vikra\.gradle\caches\transforms-3\974b4f2252348b5ef43741b27d416a49\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.appcheck.firebase_app_check-jetified-window-java-1.0.0-beta04-4 C:\Users\vikra\.gradle\caches\transforms-3\9b0dd0bee9a81680af20f56797c52ab1\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.appcheck.firebase_app_check-jetified-play-services-base-18.1.0-5 C:\Users\vikra\.gradle\caches\transforms-3\ad307aea8518aca9a4898bdde5fe4a60\transformed\jetified-play-services-base-18.1.0\res
+io.flutter.plugins.firebase.appcheck.firebase_app_check-jetified-firebase-common-20.4.3-6 C:\Users\vikra\.gradle\caches\transforms-3\fd22878c3543e1218ec5eda14573d2ac\transformed\jetified-firebase-common-20.4.3\res
+io.flutter.plugins.firebase.appcheck.firebase_app_check-main-7 C:\Users\vikra\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_app_check-0.2.2+2\android\src\main\res
+io.flutter.plugins.firebase.appcheck.firebase_app_check-release-8 C:\Users\vikra\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_app_check-0.2.2+2\android\src\release\res
+io.flutter.plugins.firebase.appcheck.firebase_app_check-pngs-9 D:\load\build\firebase_app_check\generated\res\pngs\release
+io.flutter.plugins.firebase.appcheck.firebase_app_check-resValues-10 D:\load\build\firebase_app_check\generated\res\resValues\release
+io.flutter.plugins.firebase.appcheck.firebase_app_check-rs-11 D:\load\build\firebase_app_check\generated\res\rs\release
+io.flutter.plugins.firebase.appcheck.firebase_app_check-mergeReleaseResources-12 D:\load\build\firebase_app_check\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.appcheck.firebase_app_check-mergeReleaseResources-13 D:\load\build\firebase_app_check\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.appcheck.firebase_app_check-merged_res-14 D:\load\build\firebase_app_check\intermediates\merged_res\release
+io.flutter.plugins.firebase.appcheck.firebase_app_check-packaged_res-15 D:\load\build\firebase_core\intermediates\packaged_res\release

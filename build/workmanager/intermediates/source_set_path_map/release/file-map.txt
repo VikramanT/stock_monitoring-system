@@ -1,0 +1,17 @@
+dev.fluttercommunity.workmanager-jetified-annotation-experimental-1.1.0-0 C:\Users\vikra\.gradle\caches\transforms-3\257e0bb88528f5fc66bfd853728809aa\transformed\jetified-annotation-experimental-1.1.0\res
+dev.fluttercommunity.workmanager-jetified-startup-runtime-1.0.0-1 C:\Users\vikra\.gradle\caches\transforms-3\5c8542ed78cfa5e80de61f8257358702\transformed\jetified-startup-runtime-1.0.0\res
+dev.fluttercommunity.workmanager-jetified-window-1.0.0-beta04-2 C:\Users\vikra\.gradle\caches\transforms-3\6582e67aea0be70979c64a0bfb01e347\transformed\jetified-window-1.0.0-beta04\res
+dev.fluttercommunity.workmanager-core-1.6.0-3 C:\Users\vikra\.gradle\caches\transforms-3\974b4f2252348b5ef43741b27d416a49\transformed\core-1.6.0\res
+dev.fluttercommunity.workmanager-jetified-window-java-1.0.0-beta04-4 C:\Users\vikra\.gradle\caches\transforms-3\9b0dd0bee9a81680af20f56797c52ab1\transformed\jetified-window-java-1.0.0-beta04\res
+dev.fluttercommunity.workmanager-sqlite-framework-2.3.0-5 C:\Users\vikra\.gradle\caches\transforms-3\ce1d23d6da18dda543aaa1f4a9f81b82\transformed\sqlite-framework-2.3.0\res
+dev.fluttercommunity.workmanager-work-runtime-2.8.1-6 C:\Users\vikra\.gradle\caches\transforms-3\d4c88276bc1daa5540dfd4aef8d7bf04\transformed\work-runtime-2.8.1\res
+dev.fluttercommunity.workmanager-room-runtime-2.5.0-7 C:\Users\vikra\.gradle\caches\transforms-3\e0d2feda030db66cc1d2ec914c7c2179\transformed\room-runtime-2.5.0\res
+dev.fluttercommunity.workmanager-sqlite-2.3.0-8 C:\Users\vikra\.gradle\caches\transforms-3\e6d3ef4108b9341767cccbb6b590aa50\transformed\sqlite-2.3.0\res
+dev.fluttercommunity.workmanager-main-9 C:\Users\vikra\AppData\Local\Pub\Cache\hosted\pub.dev\workmanager-0.5.2\android\src\main\res
+dev.fluttercommunity.workmanager-release-10 C:\Users\vikra\AppData\Local\Pub\Cache\hosted\pub.dev\workmanager-0.5.2\android\src\release\res
+dev.fluttercommunity.workmanager-pngs-11 D:\load\build\workmanager\generated\res\pngs\release
+dev.fluttercommunity.workmanager-resValues-12 D:\load\build\workmanager\generated\res\resValues\release
+dev.fluttercommunity.workmanager-rs-13 D:\load\build\workmanager\generated\res\rs\release
+dev.fluttercommunity.workmanager-mergeReleaseResources-14 D:\load\build\workmanager\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.workmanager-mergeReleaseResources-15 D:\load\build\workmanager\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.workmanager-merged_res-16 D:\load\build\workmanager\intermediates\merged_res\release

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "io.flutter.plugins.firebase.inappmessaging.firebase_in_app_messaging-merged_res-22:/drawable-ldpi-v4/image_placeholder.png",
+        "source": "io.flutter.plugins.firebase.inappmessaging.firebase_in_app_messaging-jetified-firebase-inappmessaging-display-20.4.1-10:/drawable-ldpi-v4/image_placeholder.png"
+    },
+    {
+        "merged": "io.flutter.plugins.firebase.inappmessaging.firebase_in_app_messaging-merged_res-22:/drawable-ldpi-v4/btn_clear.png",
+        "source": "io.flutter.plugins.firebase.inappmessaging.firebase_in_app_messaging-jetified-firebase-inappmessaging-display-20.4.1-10:/drawable-ldpi-v4/btn_clear.png"
+    }
+]

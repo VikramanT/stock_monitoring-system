@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "io.flutter.plugins.firebase.inappmessaging.firebase_in_app_messaging-merged_res-22:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "io.flutter.plugins.firebase.inappmessaging.firebase_in_app_messaging-appcompat-1.1.0-3:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.firebase.inappmessaging.firebase_in_app_messaging-merged_res-22:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "io.flutter.plugins.firebase.inappmessaging.firebase_in_app_messaging-appcompat-1.1.0-3:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]
